@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vk4ion
 - 👀 I’m interested in fairly simple webpage design - for my non-profit club
-- 🌱 I’m currently learning html, css, php
+- 🌱 I’m currently learning html, css, js
 - 💞️ I’m looking to collaborate on building a secure contact form
 - 📫 How to reach me vk4ion@gmail.com
 
